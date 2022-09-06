@@ -9,6 +9,7 @@
 - - Add `app.js`
 - - Run script : `nodemon app.js` / `node app.js`
 - URL : http://127.0.0.1:5000/
+- https://github.com/swagger-api/swagger-ui/blob/master/docs/usage/installation.md (HTML serve swagger UI)
 
 **app.js**
 
